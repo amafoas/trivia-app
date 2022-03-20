@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Geography</item>
+        <item>Books</item>
+        <item>Sports</item>
+        <item>Films</item>
+        <item>Charity</item>
+        <item>Music</item>
+        <item>Computers</item>
+        <item>Maths</item>
+        <item>Video Games</item>
+    </string-array>
+    <string-array name="colors">
+        <item>#93FF82</item>
+        <item>#FFD66B</item>
+        <item>#FF9081</item>
+        <item>#81A4FF</item>
+        <item>#FC81FF</item>
+        <item>#66FFAC</item>
+        <item>#FFF48D</item>
+        <item>#B881FF</item>
+        <item>#FF5F96</item>
+    </string-array>
+</resources>

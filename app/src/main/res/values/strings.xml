@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trivia-App</string>
+    <string name="btn_start">Start</string>
+    <!--  Difficulties window  -->
+    <string name="btn_easy">Easy</string>
+    <string name="btn_medium">Medium</string>
+    <string name="btn_hard">Hard</string>
+    <!--  categories  -->
+    <string name="category_geography">Geography</string>
+    <string name="category_books">Books</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_film">Films</string>
+    <string name="category_music">Music</string>
+    <string name="category_computers">Computers</string>
+    <string name="category_mathematics">Maths</string>
+    <string name="category_videogames">Video Games</string>
+    <string name="category_title">Chose a category</string>
+    <string name="difficulty_title">Select your difficulty</string>
+    <string name="play_again_btn">play again</string>
+    <string name="return_menu_btn">menu</string>
+    <!--  Main menu  -->
+    <string name="mainmenu_text">This application was made using open trivia DB</string>
+    <!--  Quizz  -->
+    <string name="quizz_category">Category: %1$s</string>
+    <string name="quizz_difficulty">Difficulty: %1$s</string>
+</resources>
